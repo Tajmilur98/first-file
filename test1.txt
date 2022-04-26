@@ -2,3 +2,4 @@ this is the first file added to my first repo
 Now I am modifing it on my local clone 
 4th commit from local is pushed to remote
 5th commit from remote 
+6th commit from branch
